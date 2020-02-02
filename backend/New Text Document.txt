@@ -1,0 +1,9 @@
+open cmd type npm init or -y
+then open visualstudiocode then open cmd then type npm i express mongoose then enter
+
+
+
+// module=> taking to database
+// view=> request and responce
+// controller=> everything bring together
+
